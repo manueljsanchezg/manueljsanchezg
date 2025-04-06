@@ -1,14 +1,14 @@
-# 💻 Desarrollador Web
+# 💻 Web Developer
 
-Soy Manuel J Sánchez, estudiante de **Ingeniería del Software** en la **Universidad de Sevilla**. Actualmente me centro sobre todo en desarrollo web aunque siempre estoy abierto a explorar otros campos cómo IA o Data Science.
+I'm Manuel J. Sánchez, a **Software Engineering** student at the **University of Seville**. I'm currently focused mainly on web development, although I'm always open to exploring other areas like AI or Data Science.
 
-## ⚙️ Tecnologías con las que trabajo:  
-- **Frontend:** React, Vue.js  
+## ⚙️ Technologies I work with:  
+- **Frontend:** Vue.js and React  
 - **Backend:** Node.js (Express, Fastify), Spring Boot  
-- **Bases de Datos & ORMs:** SQL, Sequelize, TypeORM, Prisma  
-- **Lenguajes:** JavaScript, TypeScript (en proceso), Java  
+- **Databases & ORMs:** SQL, Sequelize, TypeORM, Prisma  
+- **Languages:** JavaScript/TypeScript (still learning...), Java  
 
-Aunque aún estoy en formación para poder mejorar mis habilidades y aprender nuevas tecnologías.
+My main goal is to keep learning and growing in software development so I can improve my skills and build personal projects that bring me value and experience.
 
 
-🚀 **Mi objetivo:** Seguir creciendo como desarrollador y aportar valor a proyectos innovadores. ¡Siempre abierto a aprender y colaborar en nuevos desafíos tecnológicos!  
+
